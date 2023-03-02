@@ -1,0 +1,13 @@
+.cart {
+    color: rgb(43, 163, 193);
+}
+
+.btn {
+    border: none;
+    margin-left: 10px;
+    background-color: rgba(240, 33, 30, 0.699);
+    border-radius: 8px;
+    padding: 3px;
+    font-weight: 600;
+    color: rgb(247, 255, 255);
+}

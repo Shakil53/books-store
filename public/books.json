@@ -1,0 +1,247 @@
+[
+    {
+        "id": 1,
+        "name": "Shaw",
+        "price": 12,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691089/Books/news-of-the-world_dtzzm2.jpg",
+        "quantity ": 1
+    },
+    {
+        "id": 2,
+        "name": "Hernando",
+        "price": 10,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691085/Books/Alices-Adventures-in-Wonderland-185x300_ldfqiv.jpg",
+        "quantity ": 2
+    },
+    {
+        "id": 3,
+        "name": "Hashim",
+        "price": 49,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691085/Books/1671198502-51sihtmdg6l-ac-sy780-1-1671198495_j1e9i2.jpg",
+        "quantity ": 3
+    },
+    {
+        "id": 4,
+        "name": "Franny",
+        "price": 65,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691085/Books/81SBy9jbbHL_xo4zys.jpg",
+        "quantity ": 4
+    },
+    {
+        "id": 5,
+        "name": "Steven",
+        "price": 160,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691084/Books/a7726c952839e518f741aebca4764ba7.jpg_720x720q80.jpg__b0rdle.webp",
+        "quantity ": 5
+    },
+    {
+        "id": 6,
+        "name": "Fanchette",
+        "price": 76,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691084/Books/919mmNCTaaL._AC_UF1000_1000_QL80__f2v1hp.jpg",
+        "quantity ": 6
+    },
+    {
+        "id": 7,
+        "name": "Nathan",
+        "price": 46,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691084/Books/gonewind_hvjjgp.jpg",
+        "quantity ": 7
+    },
+    {
+        "id": 8,
+        "name": "Thorstein",
+        "price": 56,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691084/Books/image_h2cu7u.jpg",
+        "quantity ": 8
+    },
+    {
+        "id": 9,
+        "name": "Zerk",
+        "price": 93,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691083/Books/2vegetariancover_gd0sxz.png",
+        "quantity ": 9
+    },
+    {
+        "id": 10,
+        "name": "Kaia",
+        "price": 32,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691083/Books/1603897574-image30-1_njwomk.jpg",
+        "quantity ": 10
+    },
+    {
+        "id": 11,
+        "name": "Dougy",
+        "price": 61,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691083/Books/Jaws-Book-Cover-400x600_urteir.jpg",
+        "quantity ": 11
+    },
+    {
+        "id": 12,
+        "name": "Christiane",
+        "price": 200,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691082/Books/81REjMMZNkL._SL1500_-679x1024_f3wj3j.jpg",
+        "quantity ": 12
+    },
+    {
+        "id": 13,
+        "name": "Kilian",
+        "price": 72,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691082/Books/the-witches_jjrad9.jpg",
+        "quantity ": 13
+    },
+    {
+        "id": 14,
+        "name": "Niall",
+        "price": 45,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691082/Books/life_of_pi_kac7bi.jpg",
+        "quantity ": 14
+    },
+    {
+        "id": 15,
+        "name": "Josefina",
+        "price": 38,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691082/Books/self-help-books-6_ta9xhk.jpg",
+        "quantity ": 15
+    },
+    {
+        "id": 16,
+        "name": "Mitchel",
+        "price": 63,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691081/Books/how-you-get-famous-9781982115791_hr_ojxmb6.jpg",
+        "quantity ": 16
+    },
+    {
+        "id": 17,
+        "name": "Marshal",
+        "price": 35,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691081/Books/71xoOPLEHxL_e3bul0.jpg",
+        "quantity ": 17
+    },
+    {
+        "id": 18,
+        "name": "Wake",
+        "price": 32,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691080/Books/44784133_skncan.jpg",
+        "quantity ": 18
+    },
+    {
+        "id": 19,
+        "name": "Tomaso",
+        "price": 150,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691079/Books/take-my-hand-best-books-2022-0522-2000-5deb0034991241e3b5e2a39dd394af39_yjfko1.jpg",
+        "quantity ": 19
+    },
+    {
+        "id": 20,
+        "name": "Marcello",
+        "price": 82,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691079/Books/1603897583-image16-1_wlko4x.jpg",
+        "quantity ": 20
+    },
+    {
+        "id": 21,
+        "name": "Rosemary",
+        "price": 90,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691079/Books/bbcdune_y8ptvq.jpg",
+        "quantity ": 21
+    },
+    {
+        "id": 22,
+        "name": "Ulrika",
+        "price": 70,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691079/Books/bbcdune_y8ptvq.jpg",
+        "quantity ": 22
+    },
+    {
+        "id": 23,
+        "name": "Aguste",
+        "price": 77,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691078/Books/9781497684232_qgjpd9.jpg",
+        "quantity ": 23
+    },
+    {
+        "id": 24,
+        "name": "Franny",
+        "price": 70,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691078/Books/image_s2mzwl.jpg",
+        "quantity ": 24
+    },
+    {
+        "id": 25,
+        "name": "Helsa",
+        "price": 11,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691077/Books/image-asset_ur87gh.gif",
+        "quantity ": 25
+    },
+    {
+        "id": 26,
+        "name": "Vance",
+        "price": 10,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691077/Books/Harry-Potter-and-the-Chamber-of-Secrets-book-cover_td9et4.jpg",
+        "quantity ": 26
+    },
+    {
+        "id": 27,
+        "name": "Daphene",
+        "price": 23,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691076/Books/12162022_12345_174602_atyubf.jpg",
+        "quantity ": 27
+    },
+    {
+        "id": 28,
+        "name": "Wandie",
+        "price": 22,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691076/Books/Screenshot-2022-05-04-at-17.22.22-e1651678545357_ckywjc.png",
+        "quantity ": 28
+    },
+    {
+        "id": 29,
+        "name": "Gabe",
+        "price": "Stieger",
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691075/Books/Screenshot-2022-05-04-at-17.20.48-e1651678584559_snqscu.png",
+        "quantity ": 29
+    },
+    {
+        "id": 30,
+        "name": "Ingelbert",
+        "price": 45,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691075/Books/84_The-Road-by-Cormac-McCarthy-via-amazon_jan4vo.jpg",
+        "quantity ": 30
+    },
+    {
+        "id": 31,
+        "name": "Tyrus",
+        "price": 45,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691075/Books/Harper_xkzfqu.jpg",
+        "quantity ": 31
+    },
+    {
+        "id": 32,
+        "name": "Findlay",
+        "price": 56,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691074/Books/30TenBest-09-mobileMasterAt3x_gfjutd.jpg",
+        "quantity ": 32
+    },
+    {
+        "id": 33,
+        "name": "Genna",
+        "price": 85,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677691073/Books/90_The-World-According-to-Garp-by-John-Irving-via-amazon_wvwzhj.jpg",
+        "quantity ": 33
+    },
+    {
+        "id": 34,
+        "name": "Brigida",
+        "price": 65,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677690877/Books/English_Harry_Potter_4_Epub_9781781105672_d4yafy.jpg",
+        "quantity ": 34
+    },
+    {
+        "id": 35,
+        "name": "Daile",
+        "price": 25,
+        "image": "https://res.cloudinary.com/dfxk7dc1y/image/upload/v1677690877/Books/20220727_books_invisibleman_2500-655x1024_ljw7ir.jpg",
+        "quantity ": 35
+    }
+]
